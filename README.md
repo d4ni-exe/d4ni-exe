@@ -1,4 +1,4 @@
-## Meow :3
+# <img width="132" height="111" src="https://media.tenor.com/wv7Rwz7ePHQAAAAj/lain-iwakura.gif">
 
 <!--
 **d4ni-exe/d4ni-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
